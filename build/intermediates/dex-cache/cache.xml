@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sid_k\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\sid_k\Desktop\Multibhashi2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_64df6ba160ac344c56ae009468e9da497416877a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sid_k\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\sid_k\Desktop\Multibhashi2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_d2e858dc0a379fe7ea95fcbe74b21c1cc42be9c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sid_k\Desktop\Multibhashi2-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa3399e84e14edec11746adb67a32b532ef77b1c">
+        <dex dex="C:\Users\sid_k\Desktop\Multibhashi2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4cb4982c1a0e1949d638ac7a9595f1e2a1714e4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sid_k\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\Users\sid_k\Desktop\Multibhashi2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_32e04b69caf747f61e5cbafdc8e1309440f22320\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sid_k\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\sid_k\Desktop\Multibhashi2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_e1b075a66ec75334b4aae4cb60e5099365605209\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sid_k\Desktop\Multibhashi2-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\sid_k\Desktop\Multibhashi2-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2fc85db44f63b42f7e74e9be01fbe086c9d7a593\classes.dex" />
+    </item>
+
+</items>
